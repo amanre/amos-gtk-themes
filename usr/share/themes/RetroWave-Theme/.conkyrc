@@ -1,0 +1,52 @@
+conky.config = {
+    alignment = 'middle_right',
+    background = false,
+    border_width = 4,
+    cpu_avg_samples = 2,
+    default_color = '#cc00cc',
+    default_outline_color = '#cc00cc',
+    default_shade_color = '#cc00cc',
+    draw_borders = false,
+    draw_graph_borders = true,
+    draw_outline = false,
+    draw_shades = false,
+    use_xft = true,
+    font = 'Aerolite',
+    gap_x = 5,
+    gap_y = 60,
+    minimum_height = 5,
+    minimum_width = 5,
+    net_avg_samples = 2,
+    no_buffers = true,
+    out_to_console = false,
+    out_to_stderr = false,
+    extra_newline = false,
+    own_window = true,
+    own_window_transparent = true,
+    own_window_type = 'desktop',
+    own_window_class = 'Conky',
+    own_window_argb_visual = true,
+    own_window_argb_value = 255,
+    own_window_colour = '000',
+    own_window_hints = 'undecorated,below,skip_taskbar,sticky,skip_pager',
+    stippled_borders = 0,
+    update_interval = 1,
+    uppercase = true,
+    use_spacer = 'none',
+    show_graph_scale = false,
+    show_graph_range = false
+}
+
+conky.text = [[
+
+
+${color #cc00cc}$alignc${font Aerolite:size=32}Hello ^_^
+
+${color #cc00cc}$alignc${font Aerolite:size=30}The Time Is ${time %I.%M.%p}
+${color #cc00cc}$alignc${font Aerolite:size=30}${time %A %B.%d.%Y}
+#${color #cc00cc}$alignc${font Aerolite:size=30}Uptime : ${uptime}
+
+
+
+
+]]

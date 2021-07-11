@@ -1,0 +1,139 @@
+# ------------------------- http://rdelro.github.io ------------------------- #
+
+# ------------------------- MENU TITLE ------------------------- #
+menu.title.bg: flat solid border
+menu.title.bg.color: #1f2128
+menu.title.bg.border.color: #1f2128
+
+menu.title.text.color:#efefef
+menu.title.text.justify: center
+menu.title.text.font: shadow=n
+
+menu.separator.color:#13131f
+menu.border.color: #1f2128
+menu.border.width: 0
+
+# ------------------------- MENU ITEMS ------------------------- #
+menu.items.bg: flat solid
+menu.items.bg.color:#1f2128
+
+menu.items.text.color: #cccccc
+menu.items.active.text.color: #f58957
+menu.items.justify: left
+menu.items.disabled.text.color: #999999
+menu.items.active.bg: flat solid
+menu.items.active.bg.color: #f5d769
+menu.items.active.text.color: #84161f
+menu.items.font: shadow=n
+
+
+# ------------------------- WINDOW TITLE ------------------------- #
+window.active.title.bg: flat solid
+window.active.title.bg.color: #1f2128
+
+window.inactive.title.bg: flat solid
+window.inactive.title.bg.color:  #1f2128
+
+
+# ------------------------- WINDOW TEXT ------------------------- #
+window.label.text.justify: center
+window.active.label.bg: ParentRelative Flat
+window.active.label.text.color:#cccccc
+window.active.label.text.font: shadow=n
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #888888
+window.inactive.label.text.font: shadow=n
+
+# ------------------------- WINDOW BORDERS ETC ------------------------- #
+window.active.client.color: #cccccc
+window.inactive.client.color: #cccccc
+window.active.grip.bg.color: #FF0000
+
+
+window.active.title.separator.color: #1f2128
+window.inactive.title.separator.color: #1f2128
+
+# ------------------------- WINDOW BUTTONS ------------------------- #
+window.active.button.unpressed.bg: parentrelative
+window.active.button.unpressed.bg.color: #f5d769
+window.active.button.unpressed.image.color: #cccccc
+
+window.active.button.pressed.bg: parentrelative
+window.active.button.pressed.image.color: #cccccc
+
+window.active.button.disabled.bg: parentrelative
+window.active.button.disabled.image.color: #999999
+
+
+window.active.button.hover.bg: Solid Flat
+window.active.button.hover.bg.color: #f5d769
+window.active.button.hover.image.color: #efefef
+
+window.active.button.toggled.bg: parentrelative
+window.active.button.toggled.image.color: #cccccc
+
+window.active.button.toggled.unpressed.bg: parentrelative
+window.active.button.toggled.unpressed.image.color: #cccccc
+
+window.active.button.toggled.pressed.bg: parentrelative
+window.active.button.toggled.pressed.image.color: #cccccc
+window.active.button.toggled.hover.bg: parentrelative
+window.active.button.toggled.hover.image.color: #efefef
+
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.unpressed.image.color: #999999
+
+window.inactive.button.pressed.bg: parentrelative
+window.inactive.button.pressed.image.color: #999999
+
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.disabled.image.color: #666666
+
+
+window.inactive.button.hover.bg: Solid Flat
+window.inactive.button.hover.bg.color: #f5d769
+window.inactive.button.hover.image.color: #cccccc
+
+window.inactive.button.toggled.bg: parentrelative
+window.inactive.button.toggled.image.color: #999999
+window.inactive.button.toggled.unpressed.bg: parentrelative
+window.inactive.button.toggled.unpressed.image.color: #999999
+
+window.inactive.button.toggled.pressed.bg: parentrelative
+window.inactive.button.toggled.pressed.image.color: #999999
+window.inactive.button.toggled.hover.bg: parentrelative
+window.inactive.button.toggled.hover.image.color: #cccccc
+
+# ------------------------- MISC SETTINGS ------------------------- #
+border.color: #1f2128
+border.width: 0
+padding.width: 0
+padding.height: 0
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+menu.overlap.x: -1
+menu.overlap.y: 0
+
+
+# ------------------------- OSD & DOCK ------------------------- #
+
+### BORDER ###
+osd.border.width: 1
+osd.border.color: #1f2128
+
+### BACKGROUND ###
+osd.bg: Flat Border Solid
+osd.bg.color: #1f2128
+osd.bg.border.color: #1f2128
+osd.unhilight.bg: Solid Flat
+osd.unhilight.bg.color: #1f2128
+osd.unhilight.bg.border.color: #1f2128
+osd.hilight.bg: Solid Flat
+osd.hilight.bg.color: #f5d769
+osd.hilight.bg.border.color: #1f2128
+
+### LABEL ###
+osd.label.bg: parentrelative
+osd.label.text.color: #efefef
+osd.label.text.font: shadow=n

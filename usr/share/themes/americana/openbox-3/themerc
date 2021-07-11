@@ -1,0 +1,96 @@
+!! americana by daman
+
+!! Menu background
+menu.items.bg: flat gradient vertical
+menu.items.bg.color: #646678
+menu.items.bg.colorTo: #333333
+
+!! Menu text
+menu.items.text.color: #C9CCEE
+menu.items.justify: left
+menu.items.disabled.text.color: #737373
+
+!! Menu headers
+menu.title.bg: Raised Gradient Vertical
+menu.title.bg.color: #646678
+menu.title.bg.colorTo: #575146
+menu.title.text.color: #C9CCEE
+menu.title.text.justify: center
+
+!! Selected menu item
+menu.items.active.bg: Raised Gradient Vertical
+menu.items.active.bg.color: #695C56
+menu.items.active.bg.colorTo: #23201F
+menu.items.active.text.color: white
+
+!! Titlebar
+window.active.title.bg:	Flat Splitvertical gradient
+window.active.title.bg.color: #003759
+window.active.title.bg.color.splitTo: #ABDBEE
+window.active.title.bg.colorTo: #003759
+window.active.title.bg.colorTo.SplitTo: #309393
+
+window.inactive.title.bg: Flat Splitvertical gradient
+window.inactive.title.bg.color: #003759
+window.inactive.title.bg.color.splitTo: #ABDBEE
+window.inactive.title.bg.colorTo: #003759
+window.inactive.title.bg.colorTo.SplitTo: #309393
+
+!! Titlebar text
+window.label.text.justify: center
+window.active.label.bg: parentrelative
+window.active.label.text.color: #89FFFF
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #8CB8C9
+
+!! Active buttons
+window.active.button.*.bg: parentrelative
+
+window.active.button.hover.bg: Sunken gradient splitVertical border
+window.active.button.hover.bg.color: #226969
+window.active.button.hover.bg.colorTo: #36A3A3
+window.active.button.hover.bg.border.color: #89FFFF
+window.active.button.hover.image.color: #000000
+
+window.active.button.pressed.bg: Sunken gradient splitVertical border
+window.active.button.pressed.bg.color: #226969
+window.active.button.pressed.bg.colorTo: #36A3A3
+window.active.button.pressed.bg.border.color: #89FFFF
+window.active.button.pressed.image.color: #CC0000
+
+!! Inactive buttons
+window.inactive.button.*.bg: parentrelative
+
+window.active.button.*.image.color: #89FFFF
+window.active.button.disabled.image.color: #638281
+window.inactive.button.*.image.color: #8CB8C9
+window.inactive.button.disabled.image.color: #638281
+
+!! Borders
+window.active.border.color: #89FFFF
+window.active.title.separator.color: #309393
+window.inactive.border.color: #A3D3E7
+window.inactive.title.separator.color: #309393
+border.width: 2
+padding.width: 3
+window.handle.width: 0
+window.active.client.color:  #003759
+window.inactive.client.color:  #003759
+window.client.padding.width: 3
+window.client.padding.height: 3
+menu.overlap: 0
+
+!! Font shadows
+window.active.label.text.font:shadow=y:shadowtint=70:shadowoffset=1
+window.inactive.label.text.font: shadow=n
+menu.items.font:shadow=y:shadowtint=70:shadowoffset=1
+menu.title.text.font:shadow=y:shadowtint=70:shadowoffset=1
+osd.label.text.font: shadow=y:shadowtint=70:shadowoffset=1
+
+!! On-screen displays
+osd.hilight.bg: Sunken gradient splitVertical border
+osd.hilight.bg.color: #226969
+osd.hilight.bg.colorTo: #36A3A3
+osd.hilight.bg.border.color: #89FFFF
+
+

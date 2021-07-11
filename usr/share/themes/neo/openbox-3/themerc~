@@ -1,0 +1,148 @@
+# Window geometry
+
+  border.width: 2
+# espacio-padding respecto los bordes de ventana
+  window.client.padding.width: 0
+  window.client.padding.height: 0
+  window.handle.width: 0
+# espaciado padding=margen de elementos de barra de titulo
+  padding.width: 0
+  padding.height: 0
+
+# Menu geometry
+menu.border.width: 2
+menu.overlap.x: -4
+menu.overlap.y: -14
+
+# Border colors
+window.active.border.color: #4CC0E1
+window.inactive.border.color: #1EFF9B
+menu.border.color: #4CC0E1
+menu.separator.color: #4CC0E1
+menu.separator.padding.width: 14
+menu.separator.padding.height: 7
+
+
+window.active.title.separator.color:  #4CC0E1
+window.inactive.title.separator.color: #1EFF9B
+
+
+# Text shadows
+window.active.label.text.font: shadow=n
+window.inactive.label.text.font: shadow=n
+menu.items.font: shadow=n
+menu.title.text.font: shadow=n
+
+# Window title justification
+window.label.text.justify: left
+
+# Active window
+window.active.title.bg: none
+window.active.title.bg.color: #181818
+window.active.title.bg.colorTo: #122E36
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #4D78C8
+
+window.active.button.unpressed.bg: gradient vertical flat
+window.active.button.unpressed.bg.color: #181818
+window.active.button.unpressed.bg.colorTo:  #181818
+window.active.button.unpressed.image.color: #4A8BA0
+
+window.active.button.pressed.bg: gradient vertical flat
+window.active.button.pressed.bg.color: #0088CC
+window.active.button.pressed.bg.colorTo: #0088CC
+window.active.button.pressed.image.color: #1B586C
+
+window.active.button.disabled.bg: gradient vertical flat
+window.active.button.disabled.bg.color: #141414
+window.active.button.disabled.bg.colorTo: #282828
+window.active.button.disabled.image.color: #4A8BA0
+
+window.active.button.hover.bg: gradient vertical flat
+window.active.button.hover.bg.color: #1B586C
+window.active.button.hover.bg.colorTo: #1B586C
+window.active.button.hover.image.color: #74E0FA
+
+window.active.button.toggled.bg: gradient vertical flat
+window.active.button.toggled.bg.color: #4A8BA0
+window.active.button.toggled.bg.colorTo: #4A8BA0
+window.active.button.toggled.image.color: #74E0FA
+
+# Inactive windows
+window.inactive.title.bg: none
+window.inactive.title.bg.color: #181818
+window.inactive.title.bg.colorTo: #122E36
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #4CC0E1
+
+window.inactive.button.unpressed.bg: gradient vertical flat
+window.inactive.button.unpressed.bg.color: #181818
+window.inactive.button.unpressed.bg.colorTo:  #181818
+window.inactive.button.unpressed.image.color: #4A8BA0
+
+window.inactive.button.pressed.bg: gradient vertical flat
+window.inactive.button.pressed.bg.color: #0088CC
+window.inactive.button.pressed.bg.colorTo: #0088CC
+window.inactive.button.pressed.image.color: #1B586C
+
+window.inactive.button.disabled.bg: gradient vertical flat
+window.inactive.button.disabled.bg.color: #141414
+window.inactive.button.disabled.bg.colorTo: #282828
+window.inactive.button.disabled.image.color: #4A8BA0
+
+window.inactive.button.hover.bg: gradient vertical flat
+window.inactive.button.hover.bg.color: #1B586C
+window.inactive.button.hover.bg.colorTo: #1B586C
+window.inactive.button.hover.image.color: #74E0FA
+
+window.inactive.button.toggled.bg: gradient vertical flat
+window.inactive.button.toggled.bg.color: #4A8BA0
+window.inactive.button.toggled.bg.colorTo: #4A8BA0
+window.inactive.button.toggled.image.color: #74E0FA
+
+
+
+
+
+
+
+
+# Menus
+menu.title.bg: gradient vertical raised
+menu.title.bg.color: #111111
+menu.title.bg.colorTo: #060606
+menu.title.text.color: #eeeeee
+menu.title.text.justify: Center
+
+menu.items.bg: flat solid
+menu.items.bg.color: #071114
+menu.items.text.color: #4CC0E1
+menu.items.justify: center
+menu.items.disabled.text.color: #454545
+
+menu.items.active.bg: flat border
+menu.items.active.bg.color: #065364
+menu.items.active.bg.colorTo: #111111
+menu.items.active.bg.border.color: #4CC0E1
+menu.items.active.justify: center
+menu.items.active.text.color: #4CC0E1
+menu.items.active.disabled.text.color: #454545
+
+#osd
+osd.border.width: 5
+osd.border.color:  #000000
+
+osd.bg: flat solid border
+osd.bg.color: #181818
+osd.bg.border.color: #181818
+
+osd.label.bg: parentrelative
+
+osd.label.text.color: #828282
+
+osd.hilight.bg: flat solid
+osd.hilight.bg.color: #000000
+
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #353535
+

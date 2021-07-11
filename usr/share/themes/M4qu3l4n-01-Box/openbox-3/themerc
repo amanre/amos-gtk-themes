@@ -1,0 +1,255 @@
+!! MENU SETTINGS
+
+!!------------------------------------------------------------------------
+
+!! menu title
+
+menu.title.bg: 						                                     Gradient SplitVertical flat
+
+
+
+
+
+menu.title.bg.color: 					                                  #298fdc
+menu.title.bg.colorTo: 					                                  #024cb8
+menu.title.bg.splitTo: #339ade
+menu.title.text.color: 					                                #BBF3FF
+menu.title.text.justify: 				                                center
+			
+menu.border.width: 					                                    1
+menu.border.color:					                                    #0a0a0a
+
+menu.overlap.x: 					                                     -4
+menu.overlap.y:						                                     	0
+
+!!------------------------------------------------------------------------
+
+!! menu items
+
+!! Menu background
+menu.items.bg: flat gradient vertical
+menu.items.bg.color: #303030
+menu.items.bg.colorTo: #080808
+menu.items.interlace.color: #222222
+
+
+menu.items.justify:             		                            left
+menu.items.disabled.text.color: 		                            #5B5B5B
+
+menu.items.active.bg: 					                                Gradient SplitVertical flat
+menu.items.active.bg.color: 				                            #298fdc
+menu.items.active.bg.colorTo: 				                            #024cb8
+menu.items.active.bg.colorTo.splitTo: 				                    #024cb8
+menu.items.active.text.color: 				                          #FFFFFF
+
+
+
+
+!!------------------------------------------------------------------------
+
+!! menu separator
+
+menu.separator.width:						                                1
+
+menu.separator.padding.width:					                          1
+menu.separator.padding.height:					                        1
+menu.separator.color:                   		                    #0a0a0a
+
+!!------------------------------------------------------------------------
+
+!! WINDOW SETTINGS
+
+!!------------------------------------------------------------------------
+
+!! window title
+	
+window.active.title.bg: 					                              Pyramid
+window.active.title.bg.color: 		                              #080808
+window.active.title.bg.colorTo: 		                          #a6caf0
+window.inactive.title.bg: 				                              Flat Vertical
+window.inactive.title.bg.color: 		                            #080808
+
+!!------------------------------------------------------------------------
+
+!! window text
+
+padding.width: 							                                    3
+padding.height: 						                                    1
+window.label.text.justify:                                      center
+
+window.active.label.bg: 					                              Parentrelative
+window.active.label.bg.color:                                   #BBF3FF
+window.active.label.bg.colorTo:                                 #BBF3FF
+window.active.label.text.color: 			                          white
+
+window.inactive.label.bg: 					                            Parentrelative
+window.inactive.label.bg.color:                                 #080808
+window.inactive.label.bg.colorTo:                               #080808
+window.inactive.label.text.color: 			                        grey
+
+!!------------------------------------------------------------------------
+
+!! window borders
+
+border.width: 							                                    2
+border.color: 						                                     	black
+
+window.client.padding.width: 				                            0
+window.client.padding.height:				                            0			
+
+window.active.client.color:					                            #080808
+window.inactive.client.color:					                          #080808
+
+window.active.title.separator.color:		                        #080808
+window.inactive.title.separator.color:		                      #080808
+
+!!------------------------------------------------------------------------
+
+!! window handle and grip
+
+window.handle.width: 						                                0
+
+window.active.handle.bg: 				                              parentrelative
+window.active.handle.bg.color: 			                            #080808
+window.active.handle.bg.colorTo: 			                            #000000
+
+window.active.grip.bg: 						                              parentrelative
+window.active.grip.bg.color: 			                              #080808
+window.active.grip.bg.colorTo: 			                              #000000
+
+window.inactive.handle.bg: 				                              parentrelative
+window.inactive.handle.bg.color:                                #080808
+
+window.inactive.grip.bg: 			                                  parentrelative
+window.inactive.grip.bg.color:                                  #080808
+
+!!------------------------------------------------------------------------
+
+!! WINDOW BUTTONS
+
+!!------------------------------------------------------------------------
+
+!! ACTIVE	
+
+
+window.active.border.color:                                     black
+window.active.title.bg.shadow:                                  0
+window.active.title.bg.highlight:                               70  
+
+window.active.title.bg: raised splitvertical gradient
+window.active.title.bg.color: #101010
+window.active.title.bg.colorTo: #0b0b0b
+window.active.title.separator.color:                            parentrelative
+window.active.text.justify:                                     center
+
+window.active.label.bg:                                         Gradient SplitVertical Flat 
+window.active.label.bg.color: #298fdc
+window.active.label.bg.colorTo: #024cb8
+window.active.label.bg.colorTo.splitTo: #339ade
+window.active.label.bg.interlace.color: #024cb8
+
+
+window.active.label.text.color:                                 white
+
+
+
+window.active.handle.bg:                                        parentrelative
+window.active.handle.bg.color:                                  #CECECE
+
+window.active.grip.bg:                                          parentrelative
+window.active.grip.bg.color:                                    #CECECE
+
+window.active.button.unpressed.bg:                              parentrelative   
+window.active.button.unpressed.bg.color:                        #2a91d7
+window.active.button.unpressed.image.color:                     #2a91d7
+window.active.button.unpressed.bg.border.color:                 #76caff
+window.active.button.unpressed.bg.border.colorTo:               #a8ddff
+
+window.active.button.hover.bg:                                  parentrelative
+window.active.button.hover.bg.color:                            #2a91d7
+window.active.button.hover.bg.colorTo:                          white
+window.active.button.hover.image.color:                         #76caff
+
+window.active.button.pressed.bg:                                parentrelative
+window.active.button.pressed.bg.color:                          white
+window.active.button.pressed.image.color:                       #a8ddff
+
+window.active.button.disabled.bg:                               parentrelative
+window.active.button.disabled.bg.color:                         #2a91d7
+window.active.button.disabled.image.color:                      #a8ddff
+
+!!------------------------------------------------------------------------
+
+!! INACTIVE	
+
+
+window.inactive.border.color:                                   #0b0b0b
+
+window.inactive.title.bg: raised splitvertical gradient
+window.inactive.title.bg.color: #101010
+window.inactive.title.bg.colorTo: #0b0b0b
+window.inactive.title.separator.color:                            parentrelative
+window.inactive.text.justify:                                     center
+
+window.inactive.label.bg:                                         Gradient SplitVertical flat
+window.inactive.label.bg.color: #298fdc
+window.inactive.label.bg.colorTo: #024cb8
+window.inactive.label.bg.colorTo.splitTo: #339ade
+
+window.inactive.handle.bg:                                      parentrelative
+window.inactive.handle.bg.color:                                #CECECE
+
+window.inactive.grip.bg:                                        parentrelative
+window.inactive.grip.bg.color:                                  #CECECE
+
+window.inactive.button.unpressed.bg:                            parentrelative
+window.inactive.button.unpressed.bg.color:                      #3e525f
+window.inactive.button.unpressed.image.color:                   #3e525f
+
+window.inactive.button.hover.bg:                                parentrelative
+window.inactive.button.hover.bg.color:                          #a8ddff
+window.inactive.button.hover.image.color:                       #3e525f
+
+window.inactive.button.pressed.bg:                              parentrelative
+window.inactive.button.pressed.bg.color:                        #a8ddff
+window.inactive.button.pressed.image.color:                     #a8ddff
+
+
+
+
+window.inactive.button.disabled.bg:                             parentrelative
+window.inactive.button.disabled.bg.color:                       #2a91d7
+window.inactive.button.disabled.image.color:                    #a8ddff
+
+
+
+
+
+
+!!------------------------------------------------------------------------
+
+!! OSD SETTINGS
+
+osd.bg: gradient vertical flat
+osd.bg.color: #303030
+osd.bg.colorTo: #080808
+
+### Fonts
+window.active.label.text.font:shadow=y:shadowtint=24:shadowoffset=1
+window.inactive.label.text.font:shadow=y:shadowtint=12:shadowoffset=1
+menu.items.font:
+menu.title.text.font:shadow=y:shadowtint=12
+
+padding.height: 1
+IMCLSDN
+<titleLayout>IMCLSDN</titleLayout>
+  <!--
+      avaible characters are NDSLIMC, each can occur at most once.
+      C: close
+      N: window icon
+      L: window label (AKA title).
+      I: iconify
+      M: maximize
+      S: shade (roll up/down)
+      D: omnipresent (on all desktops).
+  -->

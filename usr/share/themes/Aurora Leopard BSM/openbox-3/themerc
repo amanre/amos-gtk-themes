@@ -1,0 +1,123 @@
+#545454#iMetal
+
+# Window geometry
+padding.width: 3
+border.width: 0
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 4
+
+#Menu geometry
+menu.border.width: 0
+menu.overlap: -5
+
+# Border colors
+window.active.border.color: #BCBCBC
+window.inactive.border.color: #BCBCBC
+menu.border.color: #BCBCBC
+window.active.client.color: #BCBCBC
+window.inactive.client.color: #BCBCBC
+
+# Text shadows
+window.active.label.text.font: shadow=n
+window.inactive.label.text.font: shadow=n
+menu.items.font: shadow=n
+menu.title.text.font: shadow=n
+
+# Window title justification
+window.label.text.justify: center
+
+# Active window
+window.active.title.bg: Flat Gradient Vertical
+window.active.title.bg.color: #eeeeee
+window.active.title.bg.colorTo: #bcbcbc
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #101010
+
+window.active.handle.bg: Flat Gradient Vertical
+window.active.handle.bg.color: #bcbcbc
+window.active.handle.bg.colorTo: #eeeeee
+
+window.active.grip.bg: Flat Gradient Vertical
+window.active.grip.bg.color: #bcbcbc
+window.active.grip.bg.colorTo: #eeeeee
+
+window.active.button.unpressed.bg: Parentrelative
+window.active.button.unpressed.image.color: #444444
+
+window.active.button.pressed.bg: Parentrelative
+window.active.button.pressed.image.color: #aaaaaa
+
+window.active.button.disabled.bg: Parentrelative
+window.active.button.disabled.image.color: #aaaaaa
+
+window.active.button.toggled.bg: Parentrelative
+window.active.button.toggled.image.color: #aaaaaa
+
+window.active.button.hover.bg: Parentrelative
+window.active.button.hover.image.color: #ffffff
+
+# Inactive windows
+window.inactive.title.bg: Flat Gradient Vertical
+window.inactive.title.bg.color: #eeeeee
+window.inactive.title.bg.colorTo: #bcbcbc
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #BCBCBC
+
+window.inactive.handle.bg: Flat Gradient Vertical
+window.inactive.handle.bg.color: #BCBCBC
+window.inactive.handle.bg.colorTo: #eeeeee
+
+window.inactive.grip.bg: Flat Gradient Vertical
+window.inactive.grip.bg.color: #BCBCBC
+window.inactive.grip.bg.colorTo: #eeeeee
+
+window.inactive.button.unpressed.bg: Parentrelative
+window.inactive.button.unpressed.image.color: #666666
+
+window.inactive.button.pressed.bg: Parentrelative
+window.inactive.button.pressed.image.color: #666666
+
+window.inactive.button.disabled.bg: Parentrelative
+window.inactive.button.disabled.image.color: #666666
+
+window.inactive.button.toggled.bg: Parentrelative
+window.inactive.button.toggled.image.color: #666666
+
+window.inactive.button.hover.bg: Parentrelative
+window.inactive.button.hover.image.color: #333333
+
+# Menus
+menu.title.bg: Raised Gradient Vertical
+menu.title.bg.color: #ffffff
+menu.title.bg.colorTo: #2589D2
+menu.title.text.color: #000000
+menu.title.text.justify: Center
+
+menu.separator.color: #6F6F6F
+menu.separator.width: 1
+menu.separator.padding.width: 6
+menu.separator.padding.height: 3
+
+menu.items.bg: Raised Gradient Vertical
+menu.items.bg.color: #ffffff
+menu.items.bg.colorTo: #2589D2
+menu.items.text.color: #000000
+menu.items.disabled.text.color: #aaaaaa
+
+menu.items.active.bg: Raised Gradient Vertical
+menu.items.active.bg.color: #57ACFF#57ACFF
+menu.items.active.bg.colorTo: #003364
+menu.items.active.text.color: #ffffff
+menu.items.active.disabled.text.color: #aaaaaa
+
+#osd
+osd.border.width: 0
+osd.border.color:  #ff8800
+
+osd.bg: Flat
+osd.bg.color: #bcbcbc
+osd.bg.border.color: #00ff00
+osd.label.bg: Parentrelative
+osd.label.text.color: #161616

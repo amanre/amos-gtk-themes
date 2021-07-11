@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=RetroWave
+Comment="It's pink!" - Someone, probably.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=RetroWave
+GtkTheme=RetroWave
+IconTheme=RetroWave
+MetacityTheme=RetroWave

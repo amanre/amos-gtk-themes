@@ -1,0 +1,92 @@
+! title: tron orange
+! author: axel scheepers
+
+menu.title.bg: flat
+menu.title.bg.color: #295ba6
+menu.title.bg.colorTo: #295ba6
+menu.title.text.color: #000000
+
+menu.items.bg: flat
+menu.items.bg.color: #000000
+menu.items.text.color: #3f8bfc
+menu.items.disabled.text.color: #295ba6
+
+menu.items.active.bg: flat 
+menu.items.active.bg.color: #295ba6
+menu.items.active.text.color: #000000
+
+window.active.title.bg: flat
+window.active.title.bg.color: #000000
+window.active.title.bg.colorTo: #000000
+window.inactive.title.bg: flat
+window.inactive.title.bg.color: #000000
+
+window.active.label.bg: parentrelative
+window.active.label.text.color: #3f8bfc
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #295ba6
+
+window.active.button.unpressed.bg: parentrelative
+window.active.button.unpressed.image.color: #3f8bfc
+window.inactive.button.unpressed.bg: parentrelative
+window.inactive.button.unpressed.image.color: #295ba6
+
+window.active.button.pressed.bg: parentrelative
+window.inactive.button.pressed.bg: parentrelative
+
+window.active.button.disabled.bg: parentrelative
+window.active.button.disabled.image.color: #295ba6
+window.inactive.button.disabled.bg: parentrelative
+window.inactive.button.disabled.image.color: #523914
+
+window.frame.focus: flat
+window.frame.focus.bg.color: #000000
+window.active.client.color: #000000
+window.frame.unfocus: flat solid
+window.frame.unfocus.bg.color: #000000
+window.inactive.client.color: #000000
+
+window.active.handle.bg: flat solid
+window.active.handle.bg.color: #000000
+window.inactive.handle.bg: flat solid
+window.inactive.handle.bg.color: #000000
+
+window.active.grip.bg: flat solid
+window.active.grip.bg.color: #000000
+window.inactive.grip.bg: flat solid
+window.inactive.grip.bg.color: #000000
+
+border.color:  #3f8bfc
+window.inactive.border.color: #295ba6
+*font:    sans:pixelsize=11
+*justify: center
+
+osd.hilight.bg: flat
+osd.hilight.bg.color: #295ba6
+
+border.width:  1
+padding.width: 1
+window.client.padding.width: 1
+window.handle.width:  2
+
+
+bbpager.frame: flat solid
+bbpager.frame.bg.color: #000000
+
+bbpager.desktop: parentrelative
+bbpager.desktop.focus: parentrelative
+
+bbpager.window: flat solid
+bbpager.window.bg.color: #000000
+bbpager.window.focus: flat solid
+bbpager.window.focus.bg.color: #3f8bfc
+
+bbpager.desktop.focusStyle: border
+bbpager.window.focusStyle: border
+
+bbpager.active.desktop.bg.border.color: #295ba6
+bbpager.active.window.bg.border.color: #295ba6
+bbpager.inactive.window.bg.border.color:  #000000
+
+bbpager.bevelWidth: 1
+
