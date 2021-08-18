@@ -1,0 +1,3 @@
+@import url("resource:///org/gnome/arc-theme/gtk-main.css");
+wnck-pager { background: #151922; color: #ccc }
+wnck-pager:selected { background: #031675; color: ddd }

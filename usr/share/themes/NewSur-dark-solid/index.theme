@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=NewSur7-dark-solid-purple
+Comment=A MacOS BigSur like Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=NewSur7-dark-solid-purple
+MetacityTheme=NewSur7-dark-solid-purple
+IconTheme=NewSur7-dark
+CursorTheme=WhiteSur-cursors
+ButtonLayout=close,minimize,maximize:menu
+

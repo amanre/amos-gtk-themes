@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=C3pO-Yellow-GTK
+Comment= C3pO-Yellow-GTKversion
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=C3pO-Yellow-GTK
+MetacityTheme=C3pO-Yellow-GTK
+IconTheme= RR Circle Icon Pack 
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
